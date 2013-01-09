@@ -1,7 +1,7 @@
 Tests
 Upgrade
 
-Download and install test binaries from the latest successful pull-tester build (link here) Use bitcoin-qt.exe if you are on Windows, bitcoin-qt if Linux (sorry, Mac builds not available). (or, if you are able, build binaries yourself )
+Running Windows 7 Ultimate SP1 64-bit
 
     Note how much disk space is being used by the bitcoin data directory.
     Run the new bitcoind/Bitcoin-Qt binary.
