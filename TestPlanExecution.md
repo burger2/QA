@@ -5,6 +5,8 @@ Running Windows 7 Ultimate SP1 64-bit
 
     Note how much disk space is being used by the bitcoin data directory.
     Run the new bitcoind/Bitcoin-Qt binary.
+    
+    5,97 GB (6 420 704 610 byte)
 
 EXPECT (all tests except for FAT32 filesystem):
 
