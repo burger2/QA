@@ -23,7 +23,10 @@ First run... log without timestamp as I didn't rename the bitcoin.conf.txt to bi
 http://dl.dropbox.com/u/82192439/Bitcoin/debug-upgrade-first%20run.7z
 
 Second run with timestamp.
+http://dl.dropbox.com/u/82192439/Bitcoin/debug-upgrade-second%20run.7z
 
+Disk space is being used after upgrade:
+11,2 GB (12 101 302 409 byte)
 
 Downgrade
 
