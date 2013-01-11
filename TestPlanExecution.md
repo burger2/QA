@@ -40,5 +40,6 @@ FAIL
 I got two error messages:
 http://dl.dropbox.com/u/82192439/Bitcoin/debug-downgrade.log
 
-I had to delete all the subdirectories to get the old Bitcoin-Qt client working (the old blk.dat files where still there).
+I had to delete all the subdirectories to get the old Bitcoin-Qt client working (the old blk.dat files where still there):
+
 http://dl.dropbox.com/u/82192439/Bitcoin/debug-downgrade-second%20run.log
