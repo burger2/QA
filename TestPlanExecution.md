@@ -19,6 +19,11 @@ EXPECT (all tests except for FAT32 filesystem):
 
 PASS
 
+First run... log without timestamp as I didn't rename the bitcoin.conf.txt to bitcoin.conf =)
+http://dl.dropbox.com/u/82192439/Bitcoin/debug-upgrade-first%20run.7z
+
+Second run with timestamp.
+
 
 Downgrade
 
@@ -30,4 +35,10 @@ EXPECT:
     Quick startup
     Old version is synchronized to blockchain from where it last exited
 
-PASS/FAIL
+FAIL
+
+I got two error messages:
+http://dl.dropbox.com/u/82192439/Bitcoin/debug-downgrade.log
+
+I had to delete all the subdirectories to get the old Bitcoin-Qt client working.
+http://dl.dropbox.com/u/82192439/Bitcoin/debug-downgrade-second%20run.log
