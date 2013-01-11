@@ -17,14 +17,8 @@ EXPECT (all tests except for FAT32 filesystem):
     startup takes longer than ususual (blocks are re-indexed)
     but startup does not take hours (blocks are not re-downloaded)
 
-PASS/FAIL
+PASS
 
-EXPECT (FAT32 or other filesystem that does not support hardlinks):
-
-    blktree/ subdirectory created in bitcoin data directory
-    same experience as a brand-new user: entire blockchain is re-downloaded
-
-PASS/FAIL
 
 Downgrade
 
