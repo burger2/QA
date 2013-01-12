@@ -1,5 +1,5 @@
 Tests
-Upgrade
+Upgrade from version 0.3.24 to 0.8
 
 Running Windows 7 Ultimate SP1 64-bit
 
@@ -28,7 +28,7 @@ http://dl.dropbox.com/u/82192439/Bitcoin/debug-upgrade-second%20run.7z
 Disk space is being used after upgrade:
 11,2 GB (12 101 302 409 byte)
 
-Downgrade
+Downgrade to version 0.3.24
 
     Shut down the new bitcoind/Bitcoin-Qt, wait for it to completely exit
     Run the old version of bitcoind/Bitcoin-Qt
